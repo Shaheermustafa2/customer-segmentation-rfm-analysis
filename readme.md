@@ -87,8 +87,9 @@ This analysis enables targeted retention strategies, revenue optimization, and c
 
 #### **Dashboard Preview**
 
-![Page 1](screenshots\Screenshot 2026-02-11 134216.png)
+![Page 1](https://github.com/Shaheermustafa2/customer-segmentation-rfm-analysis/blob/main/Screenshot%202026-02-11%20134304.png)
 ![Page 2](screenshots/page2_rfm.png)
+
 
 
 
