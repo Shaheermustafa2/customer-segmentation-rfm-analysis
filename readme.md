@@ -85,5 +85,14 @@ This analysis enables targeted retention strategies, revenue optimization, and c
 
 
 
+#### **Dashboard Preview**
+
+![Page 1](screenshots\Screenshot 2026-02-11 134216.png)
+![Page 2](screenshots/page2_rfm.png)
+
+
+
+
+
 
 
